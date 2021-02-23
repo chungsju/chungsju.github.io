@@ -1,4 +1,7 @@
-# BWCE 사전 준비사항
+---
+sort: 2
+---
+# BWCE Docker Base Image 생성
 
 [toc]
 
