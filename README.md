@@ -1,2 +1,5 @@
 # chungsju.github.io
-TIBCO BW Best Pratices
+TIBCO BusinessWorks Best Pratices
+
+![TIBCO CUP](./tibco_cup.jpg)
+
